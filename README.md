@@ -1,0 +1,1 @@
+Este proyecto hace un análisis de tratamiento y transformación de datos para su análisis. El objetivo de este análisis es encontrar las causas de abandono de los clientes a la compañía y buscar una solución de cara al futuro
